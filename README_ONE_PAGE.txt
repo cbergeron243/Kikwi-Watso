@@ -3,6 +3,9 @@
 **Author:** Cam Bergeron (Ndakinna Creations)  
 **Purpose:** Fast, repeatable screening for possible solar/lunar alignment directions at a site.
 
+![KikwiNok GUI Screenshot](KikwiNok.png)
+
+
 ## Download (Windows)
 - ✅ **Windows Installer (recommended):** https://github.com/cbergeron243/Kikwi-Watso/releases/tag/v0.1.1  
 - ✅ **Portable ZIP:** https://github.com/cbergeron243/Kikwi-Watso/releases/tag/v0.1.1  
@@ -55,3 +58,4 @@ Saved to your selected output folder:
 ## Field workflow tip
 Measure a site sightline azimuth (a phone compass is fine for screening), then compare it to the chart’s target families.  
 If it’s close, it may be worth deeper measurement, horizon modeling, and follow-up.
+
