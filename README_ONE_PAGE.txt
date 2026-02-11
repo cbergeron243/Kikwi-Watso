@@ -3,6 +3,12 @@ Version: v0.1
 Author: Cam Bergeron (Ndakinna Creations)
 Purpose: Fast, repeatable screening for possible solar/lunar alignment directions at a site.
 
+## Download (Windows)
+✅ Windows Installer: [KikwiNok_Setup_v0.1.1.exe](https://1drv.ms/u/c/cd84df7252bd943e/IQCsVe3g2I9-QJQxSvrwcJE5AZ6glqTQGTAkkulBs6tvVvM?e=ryaRoD)
+
+If Windows SmartScreen appears, click **More info → Run anyway**.
+
+
 What KikwiNok does
 
 KikwiNok calculates azimuth targets (degrees from North) across a year range for:
@@ -49,5 +55,6 @@ Saved to your selected output folder:
 …_kikwi.csv (table)
 
 Field workflow tip
+
 
 Measure a site sightline azimuth (phone compass is fine for screening), then compare to the chart’s target families. If it’s close, it may be worth deeper measurement and follow-up.
