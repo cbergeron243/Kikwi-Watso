@@ -5,6 +5,12 @@
 
 ![KikwiNok GUI Screenshot](KikwiNok.png)
 
+## Repository Structure
+
+- `kikwi_core.py` – Computational engine (astronomical math + azimuth solver)
+- `kikwi_gui.py` – Desktop graphical interface
+- `kikwi_cli.py` – Command-line interface
+
 ## Download (Windows)
 - ✅ **Windows Installer (recommended):** https://github.com/cbergeron243/Kikwi-Watso/releases/tag/v0.1.1  
 - ✅ **Portable ZIP:** https://github.com/cbergeron243/Kikwi-Watso/releases/tag/v0.1.1  
@@ -57,6 +63,7 @@ Saved to your selected output folder:
 ## Field workflow tip
 Measure a site sightline azimuth (a phone compass is fine for screening), then compare it to the chart’s target families.  
 If it’s close, it may be worth deeper measurement, horizon modeling, and follow-up.
+
 
 
 
