@@ -1,4 +1,4 @@
-#Kikwi_core
+#Kikwi_core.py
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
